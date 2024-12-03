@@ -6,7 +6,6 @@ import { useTheme, useMediaQuery } from "@mui/material";
 import ChatPage from "./pages/ChatPage";
 import DrawOutlinedIcon from "@mui/icons-material/DrawOutlined";
 import FeedbackTable from "./components/FeedbackTable";
-import Sidebar from "./components/Sidebar";
 
 const gradient = `
 linear-gradient(0deg, #D7C7F4, #D7C7F4),
